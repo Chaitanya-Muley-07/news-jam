@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Times of India",
+      "title": "Upcoming smartphones in India in September 2024 including iPhone 16, Moto Razr 50, and more - The Times of India",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQLTltTmEyOE1kRkFsTkZKSnBaVDA3eGJMalBJTF82YzRlczJqeTFEUWFjWEM0NDlVM1BFRGNEMlkySWlMdlJUel9GcFN2WHZ5bWZ4QU9iZmVXX3REajFEdzc1TFI0VERLSGRhQ0xiRWFTSE15c0gzNDV6Z1dyQXN0RnVPVDVaVnFaQWZlUFFubmNuSHlpc3pZOHctaENxbWU5TnZKdG1Fanp2azZ0QzZvYTNwbGNDSzVPUWdfN2I4NXV1ZXRGREpoTXZadGZOMWlsclRTa1F0UjB1VllfUnp0OUlyVVdTcUlpbUliNndrQklwaEdiQlNJN2dFQzZVOXgxNnVpcXp30gGLAkFVX3lxTE95aGJLRm5HdFJNSGZBbnlETS1uLVFmcUdla0QwaExFZC1LOU1ZLW9hZFdzNy13LXhCWXY3SEJSTk1uZ2NMUm5PSG1oS3RGOUk2N3Y3MFZYRUhLYzd1RFJ6M3hlS2hlVVo4ekc5Q29vMzN1ZzdyTVo4N01uUGZxUUEwdG5sMjd1RFFJZHRMR1lDRy1EVlRwT1QwQXdxVkhVbEVocWJjR2hQMl9wdjdWcVNJbi1Fa3dCVXEyV3F1NTFZOTJ2MmZHUVk5WVdhZHhLMnpkTDA5ek9ldmVBZTJPSGNraTBqV1VCN1hCblJKeEtNblk1elk3X3lKUFR0ZTlLNjZMS2ZjaDZsVVZQOA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-31T14:13:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "India Today",
+      "title": "Durand Cup 2024 Final Live: Mohun Bagan level at 2-2 vs NorthEast United - India Today",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTGF6clNfZjFqdEJoblUtdUNrMFVjQ0ZmdUgyZXVjLW1NM21HS3N0RFB2X0s2c2RPVWhiSFlqNXlQMzJRcFNwYTZ6bnZETlowem52cGZ1V3d0bXZjZkxCbDhJYktjRFlELTV4LUxjbUlhQjF6TDNlWnpmRWJHWHkzdE1QaUxiSzQ1cVlXbHFJZFdCZjIxTHJkblh1MUhMR3M3UlljSy1wYk9oX205MWltTDZQYkl1bWxHTEpGa2tucUdMZ09wb3djcXVLTVgyYUpDWWhXZnEzOWZIQUdCdGE1S9IB5gFBVV95cUxQSnlySXdpRWtNdWdMQ0pQSVVGenkwNm8xbndWdVFqbi1iLWprbmcyTzgtQjJ1cnJoWG9Pa0NwVExXRlUyZnlzeExxNGNDRTRqdUlndEpXSTRmSEY4T21XX3Y4MjdqMVRHTjlDa3JsYjlsWXpDWTZwcEgwNDBYOHZpLVFVYzQ4Mm1kYkZKajk5ZlFpeGNxYVZVNk41RWh2NjFjaWh2S0pGQjhLU05WX2JiR2dSLTBvRS1weUlGd3lFV1JRRG1qRlpzdl96R082aW1rRHRTNWM3WnFvLVRmanNJMmh4bzliQQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-31T13:31:37Z",
+      "content": null
+    }
+  ]
+  }
