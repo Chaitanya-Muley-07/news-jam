@@ -12,11 +12,6 @@ News Jam is a React.js-based news application that provides users with the lates
 - **Frontend:** React.js, JavaScript, HTML, CSS  
 - **Deployment:** Vercel  
 
-## 📸 Screenshots  
-(Include screenshots here if available)  
-
-## 🔧 Installation & Setup  
-To run the project locally, follow these steps:  
 
 1. Clone the repository:  
    ```sh
